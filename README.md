@@ -1,0 +1,1 @@
+# Intel_Neural_Compute_Stick_2
